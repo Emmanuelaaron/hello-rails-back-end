@@ -11,6 +11,7 @@ gem 'pg', '~> 1.1'
 
 gem 'puma', '~> 5.0'
 gem 'rubocop', '>= 1.0', '< 2.0'
+gem 'rack-cors'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
