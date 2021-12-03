@@ -1,7 +1,7 @@
 
 # Hello Rails API
 
-> This is a rails web api that works which is called in this [front end app](https://github.com/Emmanuelaaron/hello-react-front-end/tree/feature)
+> This is a rails web api that works which is called in this [front end app](https://github.com/Emmanuelaaron/hello-react-front-end/tree/feature). This API returns a Random greeting from the database
 
 
 # Built with 🔨
